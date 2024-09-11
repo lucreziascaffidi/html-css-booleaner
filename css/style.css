@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+#header-container {
+    background-color: #9CD6F5;
+    height: 50px;
+    margin: 0 auto;
+}
+
+#header-logo {
+    height: 20px;
+    margin: 16px;
+
+}
