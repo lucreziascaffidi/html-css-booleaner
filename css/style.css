@@ -26,7 +26,7 @@ h1 {
     color: gray;
 }
 
-#the-booleaner-text {
+.sspan-lightblue {
     color: #7FA6FC;
 }
 
@@ -42,4 +42,16 @@ figure img {
 
 .photo-info {
     font-size: 10px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+.span-yellow {
+    background: yellow;
+}
+
+ul {
+    margin: 20px 0;
 }
