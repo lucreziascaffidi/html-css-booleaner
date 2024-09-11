@@ -4,12 +4,33 @@
 
 #header-container {
     background-color: #9CD6F5;
-    height: 50px;
-    margin: 0 auto;
+    height: 80px;
 }
 
 #header-logo {
-    height: 20px;
-    margin: 16px;
+    height: 40px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
+main {
+    margin: 20px 20px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+#author-name {
+    font-size: 15px;
+    color: gray;
+}
+
+#the-booleaner-text {
+    color: #7FA6FC;
+}
+
+#article-date {
+    font-size: 10px;
+    color: gray;
 }
