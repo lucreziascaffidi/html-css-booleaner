@@ -59,6 +59,7 @@ ul {
 
 table {
     width: 100%;
+    margin-bottom: 20px;
 }
 
 .blue-row {
@@ -73,4 +74,13 @@ table {
 
 .size-table {
     width: 20%;
+}
+
+footer {
+    background-color: #313A6B;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    font-size: 10px;
+    color: white;
 }
