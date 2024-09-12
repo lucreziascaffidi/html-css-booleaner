@@ -46,6 +46,7 @@ figure img {
 
 section {
     margin: 20px 0;
+    font-size: 12px;
 }
 
 .span-yellow {
@@ -54,4 +55,22 @@ section {
 
 ul {
     margin: 20px 0;
+}
+
+table {
+    width: 100%;
+}
+
+.blue-row {
+    background-color: #7FA6FC;
+    color: white;
+    text-align: left;
+}
+
+.lightblue-row {
+    background-color: #DFE6F3;
+}
+
+.size-table {
+    width: 20%;
 }
